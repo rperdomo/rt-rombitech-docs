@@ -9,3 +9,11 @@ aux_links:
 
 plugins:
   - jekyll-polyglot
+
+languages: ["en", "zh", "es"]
+default_lang: "en"
+exclude_from_localization: ["assets/css", "assets/img"]
+parallel_localization: true
+
+sass:
+  sourcemap: never # By disabling source map generation, you avoid the specific conflict points that arise when jekyll-polyglot iterates through the build process for each language
