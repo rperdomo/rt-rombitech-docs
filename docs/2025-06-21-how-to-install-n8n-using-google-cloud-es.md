@@ -1,8 +1,9 @@
 ---
 layout: default
+nav_order: 2
+permalink: /how-to-install-n8n-using-google-cloud
 title: "Cómo instalar N8N GRATIS usando Google Cloud y Cloudflare"
 lang: es
-permalink: /how-to-install-n8n-using-google-cloud
 ---
 
 # Cómo instalar N8N GRATIS usando Google Cloud y Cloudflare
