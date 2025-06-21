@@ -2,7 +2,7 @@
 layout: default
 title: "如何使用 Google Cloud 和 Cloudflare 免费安装 N8N"
 lang: zh
-permalink: /how-to-install-n8n-using-google-cloud.html
+permalink: /how-to-install-n8n-using-google-cloud
 ---
 
 # 如何使用 Google Cloud 和 Cloudflare 免费安装 N8N
