@@ -13,7 +13,7 @@ plugins:
 languages: ["en", "zh", "es"]
 default_lang: "en"
 exclude_from_localization: ["assets/css", "assets/img"]
-parallel_localization: false
+parallel_localization: false # By disabling parallel language processing, you avoid translation errors in just-the-docs main navigation
 lang_from_path: true
 
 sass:
