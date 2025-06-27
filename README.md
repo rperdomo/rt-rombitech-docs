@@ -20,6 +20,10 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 After completing the creation of your new site on GitHub, update it as needed:
 
+## Contributing
+
+We welcome contributions to this project! Please see our [contributing guide](CONTRIBUTING.md) for details on how to get started.
+
 ## Replace the content of the template pages
 
 Update the following files to your own content:
