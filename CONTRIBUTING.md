@@ -66,3 +66,12 @@ This document outlines the best practices for creating concise, action-oriented 
   * **Standard English:** Maintain a professional and clear tone.
   * **Avoid Overly Informal Language:** Replace casual phrases (e.g., "whatever you want") with more professional alternatives (e.g., "your preferred name").
   * **Proofreading:** Always proofread for grammatical correctness, typos, and overall clarity.
+
+## 5\. Licensing and Translations
+
+This project's content is licensed under the [Creative Commons Attribution-NoDerivatives-NonCommercial 4.0 International (CC BY-NC-ND 4.0) License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+While this license generally prevents the distribution of modified versions of the work, we warmly welcome contributions for **translations** directly to this repository. If you wish to contribute a translation:
+
+* Please submit your translated content via a Pull Request.
+* By submitting a translation, you agree for your contribution to be incorporated into this project, which will then be distributed by the project maintainers under the terms of the CC BY-NC-ND 4.0 license.
