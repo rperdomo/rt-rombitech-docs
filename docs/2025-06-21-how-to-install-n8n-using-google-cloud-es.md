@@ -42,7 +42,7 @@ Instale N8N gratis en su propio dominio (por ejemplo, `n8n.midominio.com`) aprov
 - Haga clic en <button class="button button--solid-blue">Crear instancia</button> ([Instancias de VM ↗](https://console.cloud.google.com/compute/instances)), habilite la API de Compute Engine (si se le solicita) y configure:
 - **Configuración de la máquina**
     - Nombre: `n8n-free-tier` (o su nombre preferido)
-    - Región: `us-west1 (Oregón)` (o su región preferida de: us-west1 (Oregón) | us-central1 (Iowa) | us-east1 (Carolina del Sur))
+    - Región: `us-west1 (Oregón)` (o su región preferida de: *us-west1 (Oregon)*, *us-central1 (Iowa)*, *us-east1 (South Carolina)*)
     - Tipo de máquina: `e2-micro`
 - **Sistema operativo y almacenamiento** (SO y almacenamiento)
     - Haga clic en <button class="button button--solid-blue">Cambiar</button> y configure:

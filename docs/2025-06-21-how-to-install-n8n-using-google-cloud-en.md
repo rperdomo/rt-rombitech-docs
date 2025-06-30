@@ -45,8 +45,8 @@ lang: en
 ## Step 1: Create a Google Compute Engine VM instance
 - Click <button class="button button--solid-blue">Create Instance</button> ([VM Instances ↗](https://console.cloud.google.com/compute/instances)), enable Compute Engine API (if asked) and configure:
 - **Machine configuration**
-    - Name: `n8n-free-tier` (or your preferred name)
-    - Region: `us-west1 (Oregon)` (or your preferred region from: us-west1 (Oregon) | us-central1 (Iowa) | us-east1 (South Carolina))
+    - Name: `n8n-free-tier` (or your preferred name)    
+    - Region: `us-west1 (Oregon)` (or your preferred region from: *us-west1 (Oregon)*, *us-central1 (Iowa)*, *us-east1 (South Carolina)*)
     - Machine Type: `e2-micro`
 - **Operating system and storage** (OS and storage) 
     - Click <button class="button button--solid-blue">Change</button> and configure:

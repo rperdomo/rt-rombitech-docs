@@ -42,7 +42,7 @@ lang: zh
 - 点击 <button class="button button--solid-blue">Create Instance</button> ([VM Instances ↗](https://console.cloud.google.com/compute/instances))，启用 Compute Engine API (如果需要) 并配置：
 - **Machine configuration**
     - Name: `n8n-free-tier` (或您偏好的 Name)
-    - Region: `us-west1 (Oregon)` (或您偏好的 Region：us-west1 (Oregon) | us-central1 (Iowa) | us-east1 (South Carolina))
+    - Region: `us-west1 (Oregon)` (或您偏好的 Region: *us-west1 (Oregon)*, *us-central1 (Iowa)*, *us-east1 (South Carolina)*)
     - Machine Type: `e2-micro`
 - **Operating system and storage** (OS and storage)
     - 点击 <button class="button button--solid-blue">Change</button> 并配置：
