@@ -230,11 +230,11 @@ lang: zh
 
 ## 资源
 
-- [Free Tier features | Google Cloud](https://cloud.google.com/free/docs/free-cloud-features#free-tier)
-- [Container-Optimized OS | Google Cloud](https://youtu.be/jh0fPT-AWwM?t=211)
-- [Container-Optimized OS Overview | Google Cloud](https://cloud.google.com/container-optimized-os/docs/concepts/features-and-benefits)
-- [Create a tunnel (dashboard) | Cloudflare Zero Trust](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-remote-tunnel/)
-- [Hosting n8n on Google Cloud | n8n Docs](https://docs.n8n.io/hosting/installation/server-setups/google-cloud/)
-- [Self-Hosting n8n with Docker & Cloudflare Tunnel | n8n Community](https://community.n8n.io/t/securely-self-hosting-n8n-with-docker-cloudflare-tunnel-the-arguably-less-painful-way/93801)
+- [Free Tier features \| Google Cloud](https://cloud.google.com/free/docs/free-cloud-features#free-tier)
+- [Container-Optimized OS \| Google Cloud](https://youtu.be/jh0fPT-AWwM?t=211)
+- [Container-Optimized OS Overview \| Google Cloud](https://cloud.google.com/container-optimized-os/docs/concepts/features-and-benefits)
+- [Create a tunnel (dashboard) \| Cloudflare Zero Trust](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-remote-tunnel/)
+- [Hosting n8n on Google Cloud \| n8n Docs](https://docs.n8n.io/hosting/installation/server-setups/google-cloud/)
+- [Self-Hosting n8n with Docker & Cloudflare Tunnel \| n8n Community](https://community.n8n.io/t/securely-self-hosting-n8n-with-docker-cloudflare-tunnel-the-arguably-less-painful-way/93801)
 - [GCP Network Service Tiers (Cloud Performance Atlas)](https://www.youtube.com/watch?v=wsdgWGE-mwE)
 - [Cloudflare origin CA](https://developers.cloudflare.com/ssl/origin-configuration/origin-ca/)
